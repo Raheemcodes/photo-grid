@@ -6,7 +6,7 @@ function App() {
       <ul className='list'>
         <li
           className='item'
-          style={{ background: 'red', aspectRatio: '286/546' }}
+          style={{ background: '#5A95CA', aspectRatio: '286/546' }}
         >
           <img
             width={1920}
@@ -19,7 +19,7 @@ function App() {
         <li
           className='item'
           style={{
-            background: 'grey',
+            background: '#605E4F',
             gridColumn: 'span 2',
           }}
         >
@@ -33,7 +33,7 @@ function App() {
         </li>
         <li
           className='item'
-          style={{ background: 'green', aspectRatio: '286/546' }}
+          style={{ background: '#CD7D9D', aspectRatio: '286/546' }}
         >
           <img
             width={1500}
@@ -48,7 +48,7 @@ function App() {
       <ul className='list collage'>
         <li
           className='item'
-          style={{ background: 'red', aspectRatio: '286/247' }}
+          style={{ background: '#5C0004', aspectRatio: '286/247' }}
         >
           <img
             width={1920}
@@ -61,7 +61,7 @@ function App() {
         <li
           className='item'
           style={{
-            background: 'grey',
+            background: '#955170',
             gridRow: 'span 2',
           }}
         >
@@ -76,7 +76,7 @@ function App() {
         <li
           className='item'
           style={{
-            background: 'blue',
+            background: '#9D9B8E',
             gridColumn: 'span 2',
           }}
         >
@@ -90,7 +90,7 @@ function App() {
         </li>
         <li
           className='item'
-          style={{ background: 'black', aspectRatio: '286/247' }}
+          style={{ background: '#3A3529', aspectRatio: '286/247' }}
         >
           <img
             width={1446}
@@ -104,7 +104,7 @@ function App() {
         <li
           className='item'
           style={{
-            background: 'orange',
+            background: '#44584C',
             gridColumn: 'span 2',
           }}
         >
