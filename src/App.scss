@@ -27,13 +27,13 @@ main {
   width: 100%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 5px 8px;
+  gap: toRem(5) toRem(8);
 
   @include breakpoint($md) {
-    gap: 8px 16px;
+    gap: toRem(8) toRem(16);
   }
   @include breakpoint($lg) {
-    gap: 10px 24px;
+    gap: toRem(10) toRem(24);
   }
 }
 
