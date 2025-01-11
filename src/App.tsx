@@ -21,6 +21,7 @@ function App() {
           style={{
             background: '#605E4F',
             gridColumn: 'span 2',
+            aspectRatio: '596/546',
           }}
         >
           <img
@@ -78,6 +79,7 @@ function App() {
           style={{
             background: '#9D9B8E',
             gridColumn: 'span 2',
+            aspectRatio: '596/247',
           }}
         >
           <img
@@ -106,6 +108,7 @@ function App() {
           style={{
             background: '#44584C',
             gridColumn: 'span 2',
+            aspectRatio: '596/247',
           }}
         >
           <img
